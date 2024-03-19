@@ -18,9 +18,9 @@ module.exports = {
       thumbnail: 'main.gif', // Path to the image in the 'asset' folder
     },
     social: {
-      github: 'https://github.com/maljaaa', // `https://github.com/maljaaa`,
-      linkedIn: 'https://www.linkedin.com/in/승민-신-383253239', // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: 'seungmin4452@gmail.com', // `seungmin4452@gmail.com`,
+      github: `https://github.com/maljaaa`, // `https://github.com/maljaaa`,
+      linkedIn: `https://www.linkedin.com/in/승민-신-383253239`, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      email: `seungmin4452@gmail.com`, // `seungmin4452@gmail.com`,
     },
   },
 
